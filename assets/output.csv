@@ -1,0 +1,17 @@
+,predicted,actual
+0,paper,plastic
+1,paper,plastic
+2,paper,paper
+3,metal,metal
+4,paper,paper
+5,paper,glass
+6,metal,trash
+7,metal,metal
+8,paper,plastic
+9,paper,metal
+10,cardboard,cardboard
+11,paper,glass
+12,paper,trash
+13,metal,cardboard
+14,metal,plastic
+15,paper,glass
